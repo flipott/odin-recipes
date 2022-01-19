@@ -1,0 +1,16 @@
+* {
+    background-color:aqua;
+}
+
+h1 {
+    color:darkred;
+}
+
+h2 {
+    font-style: italic;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
